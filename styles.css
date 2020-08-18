@@ -1,0 +1,36 @@
+.jumbotron {
+    
+    text-align: center;
+    background: none;
+}
+
+.spaceLight {
+    background-color:#eceeef;
+    padding: 2rem;
+}
+
+.carousel-caption{
+    font: block;
+    font-weight: 100;
+    color: white;
+    padding-top: 10px;
+    font-size: 30px;
+    
+}
+
+.spaceDark{
+    background-color: #cccccc;
+    padding:2rem;
+}
+
+.coolPlantstuff{
+    margin-top: 20px;
+}
+
+button.coolPlantbtn{
+    background-color: red;
+    color: white;
+    display: block;
+    margin: auto;
+}
+
